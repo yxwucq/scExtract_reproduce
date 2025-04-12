@@ -1,0 +1,11 @@
+file_name,cell_count,processing_time
+sample0_claude_3_5_extracted.h5ad,4113,52.04267120361328
+sample12_claude_3_5_extracted.h5ad,24340,240.76515817642212
+sample13_claude_3_5_extracted.h5ad,817,7.090330600738525
+sample14_claude_3_5_extracted.h5ad,9480,55.14704489707947
+sample15_claude_3_5_extracted.h5ad,16188,89.70779299736023
+sample18_claude_3_5_extracted.h5ad,39600,208.3088562488556
+sample19_claude_3_5_extracted.h5ad,50650,601.5649809837341
+sample1_claude_3_5_extracted.h5ad,39473,216.9249291419983
+sample20_claude_3_5_extracted.h5ad,53592,686.350367307663
+sample2_claude_3_5_extracted.h5ad,92864,815.2579896450043
